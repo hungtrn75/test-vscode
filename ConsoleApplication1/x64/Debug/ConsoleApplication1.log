@@ -1,2 +1,8 @@
-﻿  CanBo.cpp
-  ConsoleApplication1.vcxproj -> C:\Users\hungt\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+﻿  BaoVe.cpp
+  CanBo.cpp
+  CongNhan.cpp
+  main.cpp
+  KySu.cpp
+  QLCB.cpp
+  Generating Code...
+  ConsoleApplication1.vcxproj -> D:\c++\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
