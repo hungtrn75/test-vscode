@@ -3,7 +3,7 @@ CanBo::CanBo() {};
 string CanBo::SoThuTu(int stt, string type) {
 	string temp = to_string(stt);
 	if (temp.length() >= 3) {
-		return temp;
+		return type + temp;
 	}
 	else {
 		ostringstream prefix;
